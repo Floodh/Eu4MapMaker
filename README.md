@@ -1,5 +1,5 @@
 # Eu4MapMaker
-Discord bot capable of generating an image of 1444 were only the requested countries are drawn.
+Discord bot capable of generating an image of the startdate 1444 containing requested countries based on the EU4 game files.
 
 This is a remake of an old project.
 
